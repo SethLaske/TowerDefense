@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3540421587013160626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3850560305296468293, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: attackDamage
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -3850560305296468293, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: towerUpgradeOptions
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -3850560305296468293, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: targetableEnemyLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245100184565375203, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617583627267114809, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: towerRadius
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617583627267114809, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: baseSalePrice
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617583627267114809, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: costToPurchase
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617583627267114809, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: towerUpgradeOptions
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4250136122236249282, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
+      propertyPath: m_Name
+      value: Tower_Lv1_Canon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfdcd4c1f92c377498c970740e7a644a, type: 3}
